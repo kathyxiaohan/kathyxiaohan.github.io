@@ -1,0 +1,27 @@
+.profile-pic{
+  max-width:40%;
+  text-align:center;
+	/*:dashed;
+	border-color: #20bcaa;
+	border-width: 5px;
+	*/
+	}
+
+
+
+h1{
+  text-align: center;
+}
+body{
+	background-color: #bedadd;
+}
+div{
+	border: #20bcaa dashed 5px
+}
+iframe{
+	max-width:80%;
+	max-height: 60%;
+}
+.end-pic{
+	max-width:40%;
+}
